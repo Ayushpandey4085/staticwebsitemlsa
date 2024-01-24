@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/wood 1.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "wood background";
 
 /**
  * Project list
@@ -31,21 +31,21 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Agrominds",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "An Automatic Plant Monitoring System That Can Monitor Your Overall Plant In One Touch .",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Agrominds (Website)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "A Website Where You Can Get An Acknowledgement of Plant Monitoring Device Also You Can Buy Our Product.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Agrominds (App)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Here You Can Monitor Your Overall Performance Of Your Plant And Also You Can Detect The Pest Infestication With The Help Of Image Recognisation Technology.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
